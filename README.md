@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KeepSerene
-- 👀 I’m interested in ML at present.
-- 🌱 I’m currently learning Python and ML.
+- 👀 I’m pursuing Frontend Development at the moment.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Email me: dhrubajyotibhattacharjee182@gmail.com
 
 <!---
 KeepSerene/KeepSerene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
