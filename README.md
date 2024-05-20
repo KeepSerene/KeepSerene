@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dhrubajyoti Bhattacharjee (KeepSerene).
+- 👋 Hi, I’m Dhrubajyoti Bhattacharjee (@KeepSerene).
 - 👀 I’m pursuing Frontend Development at the moment.
 - 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate on ...
