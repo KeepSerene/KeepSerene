@@ -11,12 +11,12 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,expressjs,python,tailwind,html,css,git" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,expressjs,mongodb,python,tailwind,html,css,git" alt="skills" />
 </p>
 
 **Frontend:** React.js • Next.js • TypeScript • HTML5 • CSS3 • Tailwind CSS  
 **State Management:** Redux • Zustand • TanStack Query  
-**Backend:** Node.js • Express.js • API Integration • Authentication (Clerk/OTP)  
+**Backend:** Node.js • Express.js • MongoDB • API Integration • Authentication (Clerk/OTP)  
 **Tools:** Git • Performance Optimization • SEO
 
 ## 🚀 Featured Projects
@@ -73,7 +73,7 @@ Live data visualization with interactive charts
 
 ## 💼 What I Deliver
 
-🎯 **Performance-focused development** - Achieved +45% SEO improvement and +53% mobile performance gains  
+🎯 **Performance-focused development** - Accessibility enhancement, SEO improvement, and mobile performance gains  
 🔧 **End-to-end feature delivery** - From prototyping to production deployment  
 ♿ **Accessibility-first approach** - Building inclusive web experiences  
 🧩 **Component-driven architecture** - Reusable, well-typed, maintainable code
@@ -83,7 +83,6 @@ Live data visualization with interactive charts
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://math-to-dev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhrubajyoti-bhattacharjee-320822318/)
 [![X/Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/UsualLearner)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KeepSerene)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhrubajyotibhattacharjee182@gmail.com)
 
 **Open to:** Frontend/Full-stack roles • Freelance projects • Open-source contributions
