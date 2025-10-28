@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="180"/>
   
-  **Building responsive web experiences with React, Next.js, and TypeScript**
+  **Building responsive web experiences with React.js, Next.js, TypeScript, Express.js, and MongoDB**
 </div>
 
 ## 🛠️ Tech Stack
