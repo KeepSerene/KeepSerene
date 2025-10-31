@@ -11,12 +11,12 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,expressjs,mongodb,ejs,python,tailwind,html,css,git" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,expressjs,mongodb,python,tailwind,html,css,git" alt="skills" />
 </p>
 
 **Frontend:** React.js • Next.js • TypeScript • HTML5 • CSS3 • Tailwind CSS  
 **State Management:** Redux • Zustand • TanStack Query  
-**Backend:** Node.js • Express.js • MongoDB • API Integration • Authentication (Clerk/OTP)  
+**Backend:** Node.js • Express.js • EJS • MongoDB • API Integration • Authentication (Clerk/OTP)  
 **Tools:** Git • Performance Optimization • SEO
 
 ## 🚀 Featured Projects
