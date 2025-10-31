@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,expressjs,mongodb,python,tailwind,html,css,git" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,expressjs,mongodb,ejs,python,tailwind,html,css,git" alt="skills" />
 </p>
 
 **Frontend:** React.js • Next.js • TypeScript • HTML5 • CSS3 • Tailwind CSS  
