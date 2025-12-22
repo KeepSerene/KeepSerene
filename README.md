@@ -66,7 +66,7 @@ React.js • Gemini API • AppWrite • Tailwind CSS
 </td>
 <td width="50%">
 
-### ₿ BlockView
+### 🎶 RaagRiff
 **Spotify Web Player**  
 EJS • Express.js • MongoDB • Spotify Web API 
 
