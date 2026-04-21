@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="180"/>
   
-  **Building scalable full-stack web applications with MongoDB, Express.js, React.js & Node.js**
+  **Building scalable full-stack web applications with MongoDB, Express.js, React.js, Node.js & Next.js**
   
   🎓 BS-MS in Mathematics & Computing | 💼 Open to Full-Stack Opportunities
 </div>
