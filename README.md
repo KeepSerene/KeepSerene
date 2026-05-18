@@ -97,6 +97,8 @@ Live coding + video interviews, CoderPad-style
 
 Real-time collaborative code editor, video, and chat — built for technical interviews.
 
+[🌐 Live](https://moduo.onrender.com/) &nbsp;·&nbsp; [📝 Code](https://github.com/KeepSerene/moduo-video-calling-interview-platform-mern)
+
 </td>
 </tr>
 
@@ -111,6 +113,7 @@ MERN stack eBook platform with AI writing assist
 AI-assisted writing, design, and export to ebook formats.
 
 [🌐 Live](https://imprintly.onrender.com/) &nbsp;·&nbsp; [📝 Code](https://github.com/KeepSerene/imprintly-ai-e-book-creator-mern)
+
 </td>
 
 <td width="50%">
