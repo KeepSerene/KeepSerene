@@ -1,32 +1,47 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dhrubajyoti%20Bhattacharjee&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Agartala,%20India&descSize=16&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dhrubajyoti%20Bhattacharjee&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20Agartala,%20India&descSize=16&descAlignY=55" width="100%"/>
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="180"/>
-  
-  **Building scalable full-stack web applications with MongoDB, Express.js, React.js, Node.js & Next.js**
-  
-  🎓 BS-MS in Mathematics & Computing | 💼 Open to Full-Stack Opportunities
+
+  **Building production-grade full-stack web apps & AI-powered SaaS products**
+
+  React.js · Next.js · Node.js · MongoDB · Prisma · TypeScript
+
+  🎓 BS-MS Mathematics & Computing, NIT Agartala &nbsp;|&nbsp; 💼 Open to Full-Stack / Frontend roles (Remote & India)
+
 </div>
+
+---
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,tailwind,html,css,git,python,postman" alt="skills" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,prisma,tailwind,html,css,git,python,firebase,vercel,postman" alt="skills" />
 </p>
 
-**Frontend:** React.js • Next.js • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS • Shadcn/UI  
-**Backend:** Node.js • Express.js • MongoDB • Mongoose • REST APIs • JWT Authentication  
-**State Management:** Redux • Zustand • TanStack Query • Context API  
-**Tools & Others:** Git & GitHub • MongoDB Atlas • Postman • Performance Optimization • SEO
+| Layer | Technologies |
+|---|---|
+| **Frontend** | React.js, Next.js (App Router), TypeScript, JavaScript (ES2022+), Tailwind CSS, Shadcn/UI, Framer Motion |
+| **State & Data** | Redux, Zustand, TanStack Query, Context API, React Hook Form |
+| **Backend & Auth** | Node.js, Express.js, REST APIs, JWT, Clerk Auth, Better Auth, OTP flows |
+| **Databases** | MongoDB · Mongoose, Prisma ORM, Neon DB (PostgreSQL), Firebase Firestore, AppWrite |
+| **AI & ML** | Gemini API, Groq API, Anthropic (Claude) API, Vapi, Inngest, Modal (self-hosted inference) |
+| **SaaS & Payments** | Polar.sh (subscriptions), Stripe |
+| **Tools** | Git & GitHub, MongoDB Atlas, Postman, Vercel, Render |
+
+---
 
 ## 📈 Professional Highlights
 
-✅ **77.9% code ownership** (299/384 commits) on production application  
-✅ **45%+ SEO improvement** & 53% mobile performance optimization  
-✅ Hands-on experience with **REST API integration** & **database schema design**  
-✅ Implemented **OTP authentication** & secure user authorization systems
+- ✅ **77.9% code ownership** (299/384 commits) on a live production application at Bahi Khata
+- ✅ **45%+ SEO improvement** and **53% mobile performance boost** on a client's React rebuild
+- ✅ Self-hosted **Hallo3, Chatterbox TTS, and Ace-Step** ML models on **Modal** for production AI pipelines
+- ✅ End-to-end **SaaS architecture** with async job queues (Inngest), subscriptions (Polar.sh), and AI APIs
+- ✅ Experience with **Prisma + Neon (PostgreSQL)**, Firebase, AppWrite, and MongoDB across 12+ projects
+
+---
 
 ## 🚀 Featured Projects
 
@@ -34,48 +49,82 @@
 <tr>
 <td width="50%">
 
-### 🎙️ VoxNavi
-**AI Voice Interview Assistant**  
-Next.js • AI Integration • Speech Recognition • Firebase
+### 🖼️ Glent — AI Avatar Studio
+Animate portraits & clone voices in multiple languages
 
-- [🌐 Live Demo](https://vox-navi.vercel.app/)
-- [📝 Code](https://github.com/KeepSerene/vox-navi-ai-interview-prep-next-app)
+**Stack:** Next.js · Hallo3 (Modal) · Chatterbox TTS (Modal) · Inngest · BetterAuth
+
+Self-hosted Hallo3 and Chatterbox TTS on Modal; async video pipelines via Inngest.
+
+[🌐 Live](https://glent.vercel.app/) &nbsp;·&nbsp; [📝 Code](https://github.com/KeepSerene/glent-hey-gen-clone)
 
 </td>
 <td width="50%">
 
-### 💬 InstantNXT  
-**Real-time Chat Application**  
-Next.js 15 • Convex • Clerk Auth • WebSocket
+### 🎼 Sonauto — AI Music SaaS
+Generate complete songs: lyrics, melody, artwork
 
-- [🌐 Live Demo](https://instant-nxt.vercel.app/)
-- [📝 Code](https://github.com/KeepSerene/instant-nxt-real-time-chat-app-next15)
+**Stack:** Next.js · Ace-Step (Modal) · Groq API · Inngest · BetterAuth · Polar.sh
+
+Full subscription SaaS with AI inference on Modal and async job processing.
+
+[🌐 Live](https://sonauto-three.vercel.app/) &nbsp;·&nbsp; [📝 Code](https://github.com/KeepSerene/sonauto-ai-music-gen-saas)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🤖 SynthVani
-**AI Chat Platform**  
-React.js • Gemini API • AppWrite • Tailwind CSS
+### 👁️ Ocular — Collaborative Design Canvas
+Real-time SVG canvas, Figma-inspired
 
-- [🌐 Live Demo](https://synth-vani.vercel.app/)
-- [📝 Code](https://github.com/KeepSerene/synth-vani-ai-chat-site)
+**Stack:** Next.js · Prisma · Neon DB (PostgreSQL) · Liveblocks
+
+Multi-user real-time collaboration with cursor sync and layer management.
+
+[🌐 Live](https://ocular-umber.vercel.app/) &nbsp;·&nbsp; [📝 Code](https://github.com/KeepSerene/ocular-figma-clone)
 
 </td>
 <td width="50%">
 
-### 🎶 RaagRiff
-**Spotify Web Player**  
-EJS • Express.js • MongoDB • Spotify Web API 
+### 💻 Moduo — Technical Interview Platform
+Live coding + video interviews, CoderPad-style
 
-- [🌐 Live Demo](https://raag-riff.onrender.com/)
-- [📝 Code](https://github.com/KeepSerene/raag-riff-spotify-clone)
+**Stack:** Next.js · Convex · Stream · Clerk · Monaco Editor
+
+Real-time collaborative code editor, video, and chat — built for technical interviews.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📚 Imprintly — AI eBook Creator
+MERN stack eBook platform with AI writing assist
+
+**Stack:** React.js · Node.js · MongoDB · Gemini API
+
+AI-assisted writing, design, and export to ebook formats.
+
+</td>
+<td width="50%">
+
+### 🎶 RaagRiff — Spotify Web Player
+Full-stack music player with Spotify API
+
+**Stack:** EJS · Express.js · MongoDB · Spotify Web API · OAuth 2.0
+
+Built pre-framework to deeply understand Node.js, OAuth, and server-side rendering.
+
+[🌐 Live](https://raag-riff.onrender.com/) &nbsp;·&nbsp; [📝 Code](https://github.com/KeepSerene/raag-riff-spotify-clone)
 
 </td>
 </tr>
 </table>
+
+> **More projects:** [ZenKaryaX](https://github.com/KeepSerene/zen-karya-ai-task-todo-site) (AI task manager) · [VoxNavi](https://github.com/KeepSerene/vox-navi-ai-interview-prep-next-app) (AI voice interview assistant) · [InstantNXT](https://github.com/KeepSerene/instant-nxt-real-time-chat-app-next15) (real-time chat) · [SynthVani](https://github.com/KeepSerene/synth-vani-ai-chat-site) (AI chat app) · [QuillStack](https://github.com/KeepSerene/quill-stack-blog-site-mern) (blogging CMS)
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -88,13 +137,19 @@ EJS • Express.js • MongoDB • Spotify Web API
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeepSerene&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## 💼 What I Bring to the Table
+---
 
-🎯 **Full-Stack Expertise** - End-to-end development from database design to responsive UI  
-⚡ **Performance-Driven** - Proven track record of 45%+ optimization improvements  
-🔒 **Security-Focused** - JWT authentication, secure APIs, and data protection  
-🧩 **Clean Code Advocate** - Component-driven architecture with TypeScript  
-📱 **Mobile-First** - Responsive design and accessibility standards
+## 💼 What I Bring
+
+| | |
+|---|---|
+| 🧱 **Full-Stack Delivery** | From database schema to deployed UI — I've shipped both sides in production |
+| 🤖 **AI Integration Depth** | Not just API calls — self-hosted inference pipelines on Modal, async job queues with Inngest |
+| ⚡ **Performance-Driven** | Proven 45–53% improvement track record; I measure, I don't guess |
+| 🔒 **Auth Fluency** | JWT, OTP, OAuth 2.0, Clerk, Better Auth — shipped in real products |
+| 📐 **Math Background** | NIT Agartala Mathematics & Computing — I think in algorithms, not just syntax |
+
+---
 
 ## 📫 Let's Connect
 
@@ -111,12 +166,12 @@ EJS • Express.js • MongoDB • Spotify Web API
 </p>
 
 <div align="center">
-  
-**💼 Open to:** MERN Stack Developer roles • Full-Stack opportunities • Freelance projects • Open-source collaborations
+
+**Open to:** Full-Stack Developer · Frontend Developer (React/Next.js) · Remote & India-based roles · Open-source
 
 ---
 
-<em>"Turning mathematical logic into elegant code solutions"</em>
+*"Turning mathematical logic into shipped products."*
 
 </div>
 
