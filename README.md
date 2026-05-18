@@ -153,9 +153,9 @@ Built pre-framework to deeply understand Node.js, OAuth, and server-side renderi
 | | |
 |---|---|
 | 🧱 **Full-Stack Delivery** | From database schema to deployed UI — I've shipped both sides in production |
-| 🤖 **AI Integration Depth** | Not just API calls — self-hosted inference pipelines on Modal, async job queues with Inngest |
+| 🤖 **AI Integration Depth** | Not just API calls — self-hosted inference pipelines, async job queues |
 | ⚡ **Performance-Driven** | Proven 45–53% improvement track record; I measure, I don't guess |
-| 🔒 **Auth Fluency** | JWT, OTP, OAuth 2.0, Clerk, Better Auth — shipped in real products |
+| 🔒 **Auth Fluency** | JWT, OTP, OAuth 2.0, Clerk, BetterAuth — shipped in real products |
 | 📐 **Math Background** | NIT Agartala Mathematics & Computing — I think in algorithms, not just syntax |
 
 ---
