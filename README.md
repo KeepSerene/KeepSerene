@@ -59,6 +59,7 @@ Self-hosted Hallo3 and Chatterbox TTS on Modal; async video pipelines via Innges
 [🌐 Live](https://glent.vercel.app/) &nbsp;·&nbsp; [📝 Code](https://github.com/KeepSerene/glent-hey-gen-clone)
 
 </td>
+
 <td width="50%">
 
 ### 🎼 Sonauto — AI Music SaaS
@@ -72,6 +73,7 @@ Full subscription SaaS with AI inference on Modal and async job processing.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
@@ -85,6 +87,7 @@ Multi-user real-time collaboration with cursor sync and layer management.
 [🌐 Live](https://ocular-umber.vercel.app/) &nbsp;·&nbsp; [📝 Code](https://github.com/KeepSerene/ocular-figma-clone)
 
 </td>
+
 <td width="50%">
 
 ### 💻 Moduo — Technical Interview Platform
@@ -96,6 +99,7 @@ Real-time collaborative code editor, video, and chat — built for technical int
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
@@ -106,7 +110,9 @@ MERN stack eBook platform with AI writing assist
 
 AI-assisted writing, design, and export to ebook formats.
 
+[🌐 Live](https://imprintly.onrender.com/) &nbsp;·&nbsp; [📝 Code](https://github.com/KeepSerene/imprintly-ai-e-book-creator-mern)
 </td>
+
 <td width="50%">
 
 ### 🎶 RaagRiff — Spotify Web Player
