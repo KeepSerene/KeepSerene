@@ -121,7 +121,7 @@ AI-assisted writing, design, and export to ebook formats.
 ### 🎶 RaagRiff — Spotify Web Player
 Full-stack music player with Spotify API
 
-**Stack:** EJS · Express.js · MongoDB · Spotify Web API · OAuth 2.0
+**Stack:** EJS · Express.js · Spotify Web API · OAuth 2.0
 
 Built pre-framework to deeply understand Node.js, OAuth, and server-side rendering.
 
