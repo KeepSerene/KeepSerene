@@ -138,12 +138,13 @@ Built pre-framework to deeply understand Node.js, OAuth, and server-side renderi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeepSerene&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeepSerene&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://keepserene-github-stats.vercel.app/api?username=KeepSerene&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" alt="GitHub Stats" height="165"/>
+  <img src="https://keepserene-github-stats.vercel.app/api/top-langs/?username=KeepSerene&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeepSerene&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KeepSerene&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
