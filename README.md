@@ -137,14 +137,32 @@ Built pre-framework to deeply understand Node.js, OAuth, and server-side renderi
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://keepserene-github-stats.vercel.app/api?username=KeepSerene&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" alt="GitHub Stats" height="165"/>
-  <img src="https://keepserene-github-stats.vercel.app/api/top-langs/?username=KeepSerene&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="165"/>
-</p>
+<div align="center">
+  <img
+    src="https://keepserene-github-stats.vercel.app/api?username=KeepSerene&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&card_width=520&hide_border=true"
+    height="200"
+    alt="GitHub Stats"
+  />
+</div>
+
+<div align="center">
+  <img
+  src="https://streak-stats.demolab.com/?user=KeepSerene&theme=tokyonight&hide_border=true"
+  height="195"
+  alt="GitHub Streak"
+  />
+  <img
+    src="https://keepserene-github-stats.vercel.app/api/top-langs/?username=KeepSerene&layout=compact&theme=tokyonight&langs_count=8&card_width=240&hide_border=true"
+    height="195"
+    alt="Top Languages"
+  />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeepSerene&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=KeepSerene&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=KeepSerene&theme=tokyonight&row=1&column=6&no-frame=true"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -167,11 +185,13 @@ Built pre-framework to deeply understand Node.js, OAuth, and server-side renderi
   <a href="https://math-to-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/dhrubajyoti-bhattacharjee-320822318/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://x.com/UsualLearner">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
 </p>
 
