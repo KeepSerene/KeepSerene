@@ -25,7 +25,7 @@
 |---|---|
 | **Frontend** | React.js, Next.js (App Router), TypeScript, JavaScript (ES2022+), Tailwind CSS, Shadcn/UI, Framer Motion |
 | **State & Data** | Redux, Zustand, TanStack Query, Context API, React Hook Form |
-| **Backend & Auth** | Node.js, Express.js, EJS, REST APIs, JWT, Clerk Auth, Better Auth, OTP flows |
+| **Backend & Auth** | Node.js, Express.js, Hono, EJS, REST APIs, JWT, Clerk Auth, Better Auth, OTP flows |
 | **Databases** | MongoDB, Mongoose, Prisma ORM, Neon DB (PostgreSQL), Firebase Firestore, AppWrite |
 | **AI & ML** | Gemini API, Groq API, Anthropic (Claude) API, Vapi, Inngest, Modal (self-hosted inference) |
 | **SaaS & Payments** | Polar.sh (subscriptions), Stripe |
