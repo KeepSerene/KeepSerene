@@ -170,7 +170,7 @@ Full-stack music player with Spotify API, built pre-framework to deeply understa
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KeepSerene/github-profile-trophy/master/trophy.svg" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/KeepSerene/keepserene-github-profile-trophy/refs/heads/master/trophy.svg" alt="GitHub Trophies" />
 </p>
 
 ---
