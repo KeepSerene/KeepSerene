@@ -170,10 +170,7 @@ Full-stack music player with Spotify API, built pre-framework to deeply understa
 </div>
 
 <p align="center">
-  <img
-    src="https://keepserene-github-profile-trophy.vercel.app/?username=KeepSerene&theme=tokyonight&row=1&column=6&no-frame=true"
-    alt="GitHub Trophies"
-  />
+  <img src="https://raw.githubusercontent.com/KeepSerene/github-profile-trophy/master/trophy.svg" alt="GitHub Trophies" />
 </p>
 
 ---
