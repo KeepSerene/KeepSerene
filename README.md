@@ -29,7 +29,7 @@
 | **Backend & Auth** | Node.js, Express.js, Hono, EJS, REST APIs, JWT, Clerk Auth, Better Auth, OTP flows |
 | **Databases** | MongoDB, Mongoose, Prisma ORM, Neon DB (PostgreSQL), Firebase Firestore, AppWrite |
 | **SaaS & Payments** | Polar.sh (subscriptions) |
-| **Tools** | Git & GitHub, MongoDB Atlas, Postman, Vercel, Render |
+| **Tools** | Git & GitHub, MongoDB Atlas, Postman, VS Code, Vercel, Render |
 
 ---
 
