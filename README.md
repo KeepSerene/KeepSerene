@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,prisma,tailwind,html,css,git,python,firebase,vercel,postman" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,prisma,tailwind,html,css,git,python,vscode,firebase,vercel,postman" alt="skills" />
 </p>
 
 | Layer | Technologies |
